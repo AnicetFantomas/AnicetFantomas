@@ -20,4 +20,4 @@ I'm Anicet from DRCongo, currently leaving in Rwanda-Kigali, I'm software develo
 👱 Visitors count
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnicetFantomas&theme=dark&show_icons=true)
+![Anicet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnicetFantomas&theme=dark&show_icons=true)
