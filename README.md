@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/94958024?s=400&u=88ecc24a395e93cca0b9e2e92e45a01de9f19f5c&v=4" height="300" width="300"/></p><hr><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anicet Murhula</h1><h3 align="center">Sure, here's the rectified version:
+<p align="center"><img src="https://avatars.githubusercontent.com/u/94958024?s=400&u=88ecc24a395e93cca0b9e2e92e45a01de9f19f5c&v=4" height="300" width="300"/></p><hr><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anicet Murhula</h1><h3 align="center">
 
 "Adaptable software engineer skilled in Web2 and Web3 technologies,
 Proficient in JavaScript, React, Ruby on Rails, and Node.js,
