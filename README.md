@@ -1,10 +1,10 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/94958024?s=400&u=88ecc24a395e93cca0b9e2e92e45a01de9f19f5c&v=4" height="300" width="300"/></p><hr><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anicet Murhula</h1><h3 align="center">
 
-"Adaptable software engineer skilled in Web2 and Web3 technologies,
+Adaptable software engineer skilled in Web2 and Web3 technologies,
 Proficient in JavaScript, React, Ruby on Rails, and Node.js,
 Driven by innovation, with a problem-solving mindset,
 Committed to staying updated with industry trends,
-Effective communicator and collaborative team player."
+Effective communicator and collaborative team player.
 
  You find me at :</h3><p align="center"><a href="https://www.linkedin.com/in/anicet-murhula-13a1b0220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.facebook.com/AnicetShemekiFantômas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a><a href="https://twitter.com/FantomasAnicet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: anicetmurhula20gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
 
