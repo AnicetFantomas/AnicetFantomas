@@ -18,12 +18,15 @@ fascinated</b>
 <br>
 
 <p align="center">&nbsp;
+
  
 | Activities |   Languages |
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnicetFantomas&show_icons=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnicetFantomas&show_icons=true&theme=tokyonight&layout=compact" alt="akash-chowrasia" />|
 </p>
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{AnicetFantomas}/count.svg" alt="roland :: Visitor's Count" /></p>
 <hr>
 
 💻 ***Languages and Tools:*** 🛠️<br>
