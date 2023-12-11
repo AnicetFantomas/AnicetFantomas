@@ -1,11 +1,11 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/94958024?s=400&u=88ecc24a395e93cca0b9e2e92e45a01de9f19f5c&v=4" height="300" width="300"/></p><hr><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anicet Murhula</h1><h3 align="center">
+<hr><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anicet Murhula</h1><h3 align="center">
 
 Adaptable software engineer experienced in Web2 and Web3 technologies, driven by innovation, and committed to staying updated with industry trends. An effective communicator and collaborative team player.
 
  You find me at :</h3><p align="center"><a href="https://www.linkedin.com/in/anicet-murhula-13a1b0220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.facebook.com/AnicetShemekiFantômas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a><a href="https://twitter.com/FantomasAnicet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: anicetmurhula20gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
 
 <p align="center">
-  A student at <a href="https://microverse.org"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br>
+ <a href="https://microverse.org"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> Alumni  <br>
   <em>always <b>
 fascinated</b>
     about new challenges to 
