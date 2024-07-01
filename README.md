@@ -8,7 +8,7 @@ A software developer focused on mobile and web development. I enjoy exploring ne
   <em>always <b>
 fascinated</b>
     about new challenges to 
-   
+   rrrrrrrrrrrrrrrrrrr
    </em> 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
