@@ -4,7 +4,7 @@ A software developer focused on mobile and web development. I enjoy exploring ne
  You find me at :</h3><p align="center"><a href="https://www.linkedin.com/in/anicet-murhula-13a1b0220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.facebook.com/AnicetShemekiFantômas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a><a href="https://twitter.com/FantomasAnicet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: anicetmurhula20gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
  
 
-<p align="center">hhhh
+<p align="center">
   <em>always <b>
 fascinated</b>
     about new challenges to 
