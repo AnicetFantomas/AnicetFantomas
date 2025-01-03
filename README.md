@@ -6,7 +6,7 @@ A software developer focused on mobile and web development. I enjoy exploring ne
 
 <p align="center">
   <em>always <b>
-fascinated</b>
+fascinated</b>rrrrr
     about new challenges to 
    
    </em> 
