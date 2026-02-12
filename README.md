@@ -1,61 +1,91 @@
-<hr><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anicet Murhula</h1><h3 align="center">
-A software developer focused on mobile and web development. I enjoy exploring new technologies, solving problems, and contributing to open-source projects. I am open to new challenges and opportunities.
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anicet Murhula
+</h1>
 
- You find me at :</h3><p align="center"><a href="https://www.linkedin.com/in/anicet-murhula-13a1b0220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.facebook.com/AnicetShemekiFantômas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a><a href="https://twitter.com/FantomasAnicet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: anicetmurhula20gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
- 
+<h3 align="center">
+  Software Developer | Mobile & Web
+</h3>
 
 <p align="center">
-  <em>always <b>
-fascinated</b>
-    about new challenges to 
-   
-   </em> 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  
+  I build scalable mobile and web applications, enjoy solving real-world problems,  
+  and continuously explore new technologies to grow and deliver impact.
 </p>
-<br>
 
-<p align="center">&nbsp;
+---
 
- 
-| Activities |   Languages |
-| ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnicetFantomas&show_icons=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnicetFantomas&show_icons=true&theme=tokyonight&layout=compact" alt="akash-chowrasia" />|
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anicet-murhula-13a1b0220/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/AnicetShemekiFantômas" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/FantomasAnicet" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:anicetmurhula20@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40" />
+  </a>
 </p>
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnicetFantomas}/count.svg" alt="anicet :: Visitor's Count" /></p>
-<hr>
+---
 
-💻 ***Languages and Tools:*** 🛠️<br>
+## 🚀 About Me
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
-![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=rails)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=Typescript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+- 📱 Mobile Developer (React Native / Expo)
+- 🌐 Web Developer (React / Next.js / TypeScript)
+- 🧠 Passionate about clean architecture & scalable systems
+- 🔍 Always learning and exploring new technologies
+- 🤝 Open to collaborations and new opportunities
 
-<hr>
-<br>
-🤓 **Interested:** <br>
+---
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnicetFantomas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnicetFantomas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnicetFantomas&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🛠 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby)
+
+### ⚙️ Frontend
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000?style=flat&logo=redux)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-000?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+
+### 🔧 Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![Rails](https://img.shields.io/badge/-Rails-000?style=flat&logo=rubyonrails)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+
+---
+
+## 🎯 Motto
+
+> Always fascinated by new challenges to grow 🚀 and excel 🏅
