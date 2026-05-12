@@ -40,16 +40,10 @@ Passionate software engineer with 5+ years of experience building scalable web a
 
 ### Connect With Me
 
-[![](https://img.shields.io/badge/-🌐%20Portfolio-000)](https://your-portfolio-link.com)
-[![](https://img.shields.io/badge/-💼%20LinkedIn-000)](https://linkedin.com/in/your-profile)
-[![](https://img.shields.io/badge/-🐦%20Twitter%20X-000)](https://twitter.com/your-profile)
-[![](https://img.shields.io/badge/-💻%20GitHub-000)](https://github.com/AnicetMurhula)
-[![](https://img.shields.io/badge/-📧%20Email-000)](mailto:your@email.com)
+[![](https://img.shields.io/badge/-🌐%20Portfolio-000)](https://anicet-murhula.vercel.app/)
+[![](https://img.shields.io/badge/-💼%20LinkedIn-000)](https://www.linkedin.com/in/anicet-murhula/)
+[![](https://img.shields.io/badge/-🐦%20Twitter%20X-000)](https://twitter.com/FantomasAnicet)
+[![](https://img.shields.io/badge/-📧%20Email-000)](anicetmurhula20@gmail.com)
 
 ---
 
-<a href="https://your-portfolio-link.com/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AnicetMurhula&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,00c6ff,0072ff,00f260,0575e6&theme=graywhite" />
-
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnicetMurhula&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,0575e6,00f260,00c6ff&theme=graywhite" />
-</a>
