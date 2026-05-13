@@ -1,9 +1,7 @@
-[![](https://raw.githubusercontent.com/AnicetMurhula/AnicetMurhula/master/profile.gif)](https://anicet-murhula.vercel.app/)
+### Hi there 👋 I'm Anicet Murhula
+#### Full-Stack Software Engineer 
 
-# Hi there 👋 I'm Anicet Murhula
-### Full-Stack & Mobile Developer — Kigali, Rwanda 🇷🇼
-
-Full-Stack Developer with 5+ years of experience building and shipping web and mobile applications. I work across the full stack — from clean UIs to backend APIs — and have a strong interest in AI integrations and mobile-first solutions. Currently working remotely at **Ever Technologies** and maintaining **RushHour**, a logistics app live on the App Store and Google Play across the USA.
+Full-Stack Developer with 5+ years of experience building and shipping web and mobile applications. I work across the full stack — from clean UIs to backend APIs — with a strong interest in AI integrations and system architecture. I enjoy owning products end-to-end, from architecture to production deployment.
 
 ---
 
@@ -16,8 +14,6 @@ Full-Stack Developer with 5+ years of experience building and shipping web and m
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
----
-
 ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -27,16 +23,17 @@ Full-Stack Developer with 5+ years of experience building and shipping web and m
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=Tailwind-CSS)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
-
----
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 
 ### AI & Integrations
 
@@ -45,9 +42,6 @@ Full-Stack Developer with 5+ years of experience building and shipping web and m
 ![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000?&logo=Pinecone)
 ![Whisper](https://img.shields.io/badge/-Whisper-000?&logo=OpenAI)
-![AssemblyAI](https://img.shields.io/badge/-AssemblyAI-000?&logo=AssemblyAI)
-
----
 
 ### Connect With Me
 
