@@ -5,7 +5,7 @@ Full-Stack Developer with 5+ years of experience building and shipping web and m
 
 ---
 
-### Languages
+##### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -14,7 +14,7 @@ Full-Stack Developer with 5+ years of experience building and shipping web and m
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+##### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
@@ -35,7 +35,7 @@ Full-Stack Developer with 5+ years of experience building and shipping web and m
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 
-### AI & Integrations
+##### AI & Integrations
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
 ![Anthropic](https://img.shields.io/badge/-Claude%20API-000?&logo=Anthropic)
@@ -43,7 +43,7 @@ Full-Stack Developer with 5+ years of experience building and shipping web and m
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000?&logo=Pinecone)
 ![Whisper](https://img.shields.io/badge/-Whisper-000?&logo=OpenAI)
 
-### Connect With Me
+##### Connect With Me
 
 [![](https://img.shields.io/badge/-🌐%20Portfolio-000)](https://anicet-murhula.vercel.app/)
 [![](https://img.shields.io/badge/-💼%20LinkedIn-000)](https://www.linkedin.com/in/anicet-murhula/)
